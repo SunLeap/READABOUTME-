@@ -3,7 +3,7 @@
 🎓 Bachelor of Science in Digital Infrastructure  
 📍 Phnom Penh, Cambodia  
 🏫 American University of Phnom Penh (AUPP)  
-📅 Expected Graduation: August 2027
+📅 Expected Graduation: December2027
 
 ---
 
