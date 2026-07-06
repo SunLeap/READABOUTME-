@@ -33,6 +33,7 @@ I'm continuously learning new technologies through coursework, personal projects
 - PostgreSQL
 - MySQL
 - MongoDB
+- DynamoDB
 
 ### Tools & Technologies
 - Git
@@ -92,7 +93,7 @@ I'm continuously learning new technologies through coursework, personal projects
 
 🔹 Web Development
 
-- HTML 
+- HTML
 - CSS
 - Personal portfolio website
 
