@@ -45,7 +45,6 @@ I'm continuously learning new technologies through coursework, personal projects
 - Linux System Administration
 - Cloud Computing
 - Networking
-- Backend Development
 - Database Management
 - Automation & Shell Scripting
 
